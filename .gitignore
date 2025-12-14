@@ -1,0 +1,15 @@
+datalake/golden
+*.parquet
+*.crc
+
+datalake/silver/ecommerce_reviews
+*.parquet
+*.crc
+
+datalake/silver/sports_and_outdoors
+*.parquet
+*.crc
+
+data/
+*.parquet
+*.crc
